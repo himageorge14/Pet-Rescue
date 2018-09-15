@@ -1,5 +1,5 @@
 # Pet-Rescue
-Front end for a pet adoption website where people can look through pet profiles from various animal shelters and adopt one.
+Front end for a pet adoption website where people can look through pet profiles from various animal shelters and adopt one. People can first browse through the pet list and then select their favourite pet.
 
 
 ## Motivation
