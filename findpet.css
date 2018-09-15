@@ -1,0 +1,63 @@
+.navbar 
+{
+    margin:0 0 0 0;
+    background-color:#8ACED5;
+}
+
+
+hr{
+    background-color: #8ACED5;
+    height: 50px;
+    border: none;
+
+}
+
+
+.down
+{
+    background-color: #ffffff;
+    background-image: url("images/twopets.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+}
+
+.up
+{
+    background-image:url("images/line2.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color:white;
+    background-size:auto 100%;
+}
+
+.jumbotron
+{
+   margin:0px 0px 0px 0px;
+
+}
+
+body
+{
+background-repeat: no-repeat;
+background-size:cover;
+background-color:white;
+}
+
+#contact{
+    font-size: 28px;
+}
+
+p
+{
+color:black;
+}
+
+td
+{
+padding:50px;
+}
+
+
+
+
